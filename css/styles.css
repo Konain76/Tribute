@@ -1,0 +1,59 @@
+
+body{
+  width: 40%;
+  margin: 0 auto;
+  padding: 20px 0 20px 0;
+  color: #FA8072;
+  font-family: 'Roboto', sans-serif;
+}
+h1{
+  text-align: center;
+  padding-top: 40px;
+
+}
+h2{
+  text-align: center;
+}
+h3
+{
+  margin: auto;
+  width: 70%;
+}
+img{
+  width: 60%;
+}
+.achivements{
+  margin : 25px;
+  line-height: 2;
+}
+.bio{
+  margin:20px;
+  border:solid 0.1px;
+  border-color:white ;
+}
+.bio-1{
+  margin: 15px;
+}
+.img{
+  text-align: center;
+  margin: 20px;
+  border:solid 0.1px;
+  border-color:white ;
+}
+.img-details{
+  margin: 5px;
+  border:solid 0.1px;
+  border-color:white ;
+  background-color: #E0C097;
+}
+.main-container{
+  background-color: #FFDEDE;
+  width: 95%;
+  margin: 20px auto;
+}
+.link{
+  text-decoration: none;
+}
+a:hover{
+  color:  #FA8072;
+}
